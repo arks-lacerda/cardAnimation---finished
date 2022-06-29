@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
- <img src="https://github.com/tucasrl/cardAnimation---finished/blob/master/Card-Animation.png" alt="Cards Animation" width="150px"/> 
-  <br>
+ <img src="https://github.com/tucasrl/cardAnimation---finished/blob/master/Card-Animation.png" alt="Cards Animation" width="200px"/> 
+  <br> <br> <br>
  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
