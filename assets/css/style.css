@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+:root {
+  font-size: 62.5%; /* 1rem = 10px */
+}
+
+body {
+  background:  #f1f1f1;
+}
+
+.container {
+  width: 40rem;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.card {
+  width: 25rem;
+  height: 40rem;
+  position: relative;
+  background: #fff;
+  border-radius: 30px;
+  box-shadow: 0 0 15px 0 rgb(163, 163, 163);
+}
+
+.card-itens {
+  width: 100%;
+  height: 100%;
+}
+
+.card-top {
+  width: 100%;
+  height: 60%;
+  background: #0088d2;
+  border-radius: 30px;
+  color: #fff;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.icons span {
+  cursor: pointer;
+  padding: 1rem;
+  font-size: 3rem;
+}
+
+.card-top h3 {
+  font-size: 1.25rem;
+  padding-left: 1.5rem;
+}
+
+.card-top h1 {
+  font-size: 1.875rem;
+  padding-left: 1rem;
+  font-weight: 600;
+}
+
+.card-bottom { 
+  padding: 1.875rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-bottom h3 {
+  font-size: 1.6rem;
+  margin-bottom: 0.625rem;
+}
+
+.card-bottom p {
+  text-align: left;
+}
+
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.625rem;
+  width: 100%;
+  border: 2px solid #0088d2;
+  margin-top: 0.937rem;
+  border-radius: 10px;
+  font-size: 1.6rem;
+  color: #0088d2;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+
+.btn:hover {
+  border: 2px solid #0088d2;
+  background-color: #0088d2;
+  color: #fff;
+}
+
+#tennis-1,
+#tennis-2 {
+  width: 28.125rem;
+  position: absolute;
+  top: 11.875rem;
+  transition: 1s;
+}
+
+#tennis-1 {
+  left: -3.125rem;
+}
+
+#tennis-2 {
+  left: -40.625rem;
+}
