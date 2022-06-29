@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
- <img src=".github/Card-Animation.png" alt="PRs welcome!" />
+ <img src="https://github.com/tucasrl/cardAnimation---finished/blob/master/Card-Animation.png" alt="PRs welcome!" />
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
