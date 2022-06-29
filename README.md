@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img alt="Card Animation" title="CardAnimation" width="220px" />
-</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -9,16 +6,12 @@
 </p>
 
 <p align="center">
- <img src="https://github.com/tucasrl/cardAnimation---finished/blob/master/Card-Animation.png" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+ <img src="https://github.com/tucasrl/cardAnimation---finished/blob/master/Card-Animation.png" alt="PRs welcome!" /> 
+  <br>
+ <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="cardAnimation" src=".github/jobscalc.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
